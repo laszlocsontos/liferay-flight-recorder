@@ -1,18 +1,9 @@
-# Liferay Plugins
+# Liferay Flight Recoder
 
-The liferay-plugins repository is part of the Liferay Portal project. [Liferay
-Portal](http://www.liferay.com/community/liferay-projects/liferay-portal) is an
-open source enterprise web platform for building business solutions that deliver
-immediate results and long-term value. Liferay Portal started out as a personal
-development project in 2000 and was open sourced in 2001.
+The Liferay Flight Recoder project. 
 
-To get started, check out the project's community homepage at
-[http://liferay.org](http://liferay.org)!
 
-Most of the plugins found in the liferay-plugins repository can be easily
-installed on Liferay Portal via [Liferay
-Marketplace](http://liferay.com/marketplace). To build one or more of the
-plugins yourself, read below for details.
+
 
 ## Source Code
 
