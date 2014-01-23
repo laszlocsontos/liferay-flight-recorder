@@ -29,4 +29,4 @@ _sass_cache_*.css
 /build.*.properties
 /dist
 /tools/*/*/*/lib
-.settings
+/*/*/.settings
